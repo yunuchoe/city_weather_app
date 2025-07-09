@@ -1,0 +1,14 @@
+.favourite-cities{
+    display: flex;
+    align-items: center;
+}
+
+.favourite-cities .city{
+    font-size: 20px;
+    color: #ffffff; 
+}
+
+.favourite-cities .temperature {
+    font-size: 20px;
+    color: #ffffff; 
+}
