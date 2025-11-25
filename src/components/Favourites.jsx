@@ -19,7 +19,7 @@ const Favourites = ({refreshToggle}) => {
     }, [refreshToggle]); // allows for refresh
 
     return (
-        <div className = "favourites">
+        <div className = "favourite">
             <h2>Favourites</h2>
             {favorites.length === 0 ? (
                 <p>No favorites cities...</p>
